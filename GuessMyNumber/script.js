@@ -1,5 +1,7 @@
 "use strict";
 
+// this is joy
+
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let currentScore = Number(document.querySelector(".score").textContent);
 let highScore = 0;
